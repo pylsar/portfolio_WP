@@ -1,2 +1,2 @@
 # portfolio_WP
-wordpress
+my project using wordpress
